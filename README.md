@@ -20,7 +20,6 @@ practice rather than production-ready applications.
 - [Book Management UI](https://github.com/ashwinraj8090/Book_app)
 - [Patient Management UI](https://github.com/ashwinraj8090/Patient-app)
 - [KSRTC UI Mock](https://github.com/ashwinraj8090/KSRTC-app)
-- [Shopping Cart UI](https://github.com/ashwinraj8090/Shopping_card) 
 - [Carwash CRM UI](https://github.com/ashwinraj8090/Carwash_Customer_Relationship_Management-App)
 - [Student Login UI](https://github.com/ashwinraj8090/Studentlogin_app)
 - [To-do list UI](https://github.com/ashwinraj8090/To-do_app)
