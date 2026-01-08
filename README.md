@@ -14,7 +14,7 @@ practice rather than production-ready applications.
 
 ## Archived Practice Projects
 
-### HTML & CSS Practice
+### HTML Practice
 - [Student App UI](https://github.com/ashwinraj8090/Student_app)
 - [Employee App UI](https://github.com/ashwinraj8090/Employee_app)
 - [Book Management UI](https://github.com/ashwinraj8090/Book_app)
